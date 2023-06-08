@@ -1,0 +1,136 @@
+[
+  {
+    "quest": "Who defeated Darth Maul in The Phantom Menace",
+    "options": [
+      { "id": 0, "text": "Yoda", "isCorrect": false },
+      { "id": 1, "text": "Qui-Gon Gin", "isCorrect": false },
+      { "id": 2, "text": "Anakin Skywalker", "isCorrect": false },
+      { "id": 3, "text": "Obi-Wan Kenobi", "isCorrect": true }
+    ]
+  },
+  {
+    "quest": "Who gave Han Solo to Jabba the Hutt?",
+    "options": [
+      { "id": 0, "text": "Boba Fett", "isCorrect": true },
+      { "id": 1, "text": "Darth Vader", "isCorrect": false },
+      { "id": 2, "text": "Palpatine", "isCorrect": false },
+      { "id": 3, "text": "Luke", "isCorrect": false }
+    ]
+  },
+  {
+    "quest": "Who was the grandmaster of the jedi order during the clone wars?",
+    "options": [
+      { "id": 0, "text": "Yoda", "isCorrect": true },
+      { "id": 1, "text": "Mace Windu", "isCorrect": false },
+      { "id": 2, "text": "Obi-Wan Kenobi", "isCorrect": false },
+      { "id": 3, "text": "Anakin Skywalker", "isCorrect": false }
+    ]
+  },
+  {
+    "quest": "Where was Darth Vaders funeral?",
+    "options": [
+      { "id": 0, "text": "California", "isCorrect": false },
+      { "id": 1, "text": "Tatooine", "isCorrect": false },
+      { "id": 2, "text": "Endor", "isCorrect": true },
+      { "id": 3, "text": "Hoth", "isCorrect": false }
+    ]
+  },
+  {
+    "quest": "Who ordered the construction of the clones?",
+    "options": [
+      { "id": 0, "text": "Obi-Wan", "isCorrect": false },
+      { "id": 1, "text": "Sifo Dyas", "isCorrect": true },
+      { "id": 2, "text": "Yoda", "isCorrect": false },
+      { "id": 3, "text": "Jedi Bob", "isCorrect": false }
+    ]
+  },
+  {
+    "quest": "When was the first star wars film released",
+    "options": [
+      { "id": 0, "text": "2011", "isCorrect": false },
+      { "id": 1, "text": "1985", "isCorrect": false },
+      { "id": 2, "text": "1999", "isCorrect": false },
+      { "id": 3, "text": "1977", "isCorrect": true }
+    ]
+  },
+  {
+    "quest": "What was Palpatine's first name",
+    "options": [
+      { "id": 0, "text": "Sheev", "isCorrect": true },
+      { "id": 1, "text": "Pedro", "isCorrect": false },
+      { "id": 2, "text": "Evil", "isCorrect": false },
+      { "id": 3, "text": "Jamison", "isCorrect": false }
+    ]
+  },
+  {
+    "quest": "Who was Anakin's padawan",
+    "options": [
+      { "id": 0, "text": "R2-D2", "isCorrect": false },
+      { "id": 1, "text": "Franklin", "isCorrect": false },
+      { "id": 2, "text": "Luke", "isCorrect": false },
+      { "id": 3, "text": "Ahsoka", "isCorrect": true }
+    ]
+  },
+  {
+    "quest": "What type of droid is R2-D2?",
+    "options": [
+      { "id": 0, "text": "Astromech droid", "isCorrect": true },
+      { "id": 1, "text": "Protocol droid", "isCorrect": false },
+      { "id": 2, "text": "Battle droid", "isCorrect": false },
+      { "id": 3, "text": "Assassin droid", "isCorrect": false }
+    ]
+  },
+    
+  {
+    "quest": "Who trained Luke Skywalker to use the Force?",
+    "options": [
+      { "id": 0, "text": "Yoda", "isCorrect": true },
+      { "id": 1, "text": "Obi-Wan Kenobi", "isCorrect": false },
+      { "id": 2, "text": "Anakin Skywalker", "isCorrect": false },
+      { "id": 3, "text": "Mace Windu", "isCorrect": false }
+    ]
+  },
+    
+  {
+    "quest": "What planet is Darth Vader from?",
+    "options": [
+      { "id": 0, "text": "Tatooine", "isCorrect": false },
+      { "id": 1, "text": "Alderaan", "isCorrect": false },
+      { "id": 2, "text": "Naboo", "isCorrect": false },
+      { "id": 3, "text": "Mustafar", "isCorrect": true }
+    ]
+  },
+  
+  {
+    "quest": "What is the name of Han Solo's ship?",
+    "options": [
+      { "id": 0, "text": "Star Destroyer", "isCorrect": false },
+      { "id": 1, "text": "X-wing", "isCorrect": false },
+      { "id": 2, "text": "TIE fighter", "isCorrect": false },
+      { "id": 3, "text": "Millennium Falcon", "isCorrect": true }
+    ]
+  },
+  
+  {
+    "quest": "What is the name of the bounty hunter who was hired by Count Dooku in Attack Of The Clones?",
+    "options": [
+      { "id": 0, "text": "Jango Fett", "isCorrect": true },
+      { "id": 1, "text": "Boba Fett", "isCorrect": false },
+      { "id": 2, "text": "Zam Wesell", "isCorrect": false },
+      { "id": 3, "text": "Cad Bane", "isCorrect": false }
+    ]
+  },
+  {
+    "quest": "What is the name of the desert planet where Luke Skywalker grew up?",
+    "options": 
+    [
+      { "id": 0, "text": "Coruscant", "isCorrect": false },
+      { "id": 1, "text": "Tatooine", "isCorrect": true },
+      { "id": 2, "text": "Dantooine", "isCorrect": false },
+      { "id": 3, "text": "Jakku", "isCorrect": false }
+    ]
+  }
+
+]
+
+  
